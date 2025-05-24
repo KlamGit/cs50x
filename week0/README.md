@@ -1,0 +1,1 @@
+This project, which is the homework for week0 for CS50x is not complete, but rather a work in progress. 
